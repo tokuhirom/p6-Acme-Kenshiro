@@ -1,0 +1,13 @@
+{
+  "name" : "Acme::Kenshiro",
+  "support" : {
+    "source" : ""
+  },
+  "perl" : "v6",
+  "build-depends" : [ ],
+  "provides" : null,
+  "depends" : [ ],
+  "test-depends" : [ ],
+  "description" : "Unnamed repository; edit this file 'description' to name the repository.\n",
+  "version" : ""
+}
