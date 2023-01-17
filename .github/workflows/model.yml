@@ -23,4 +23,5 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         files: kenshiro.tar.gz
+        generate_release_notes: true
 
