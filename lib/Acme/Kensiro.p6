@@ -18,3 +18,10 @@ sub kensiro($src) {
 }
 
 kensiro(2).say
+
+=head1 これはなに？
+
+けんしろう
+
+=cut
+
